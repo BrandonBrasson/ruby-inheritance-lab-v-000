@@ -1,4 +1,4 @@
-class Student
+class Student < user
 
 def first_name(steve)
   @Steve
