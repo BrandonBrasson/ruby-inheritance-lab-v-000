@@ -1,7 +1,7 @@
 class Student
 
 def first_name
-  "Steve"
+  @Steve
 end
 
 def last_name
