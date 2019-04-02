@@ -5,7 +5,7 @@ def first_name
 end
 
 def last_name
-"$#{@jobs}."
+@jobs
 end
 
   def initialize
