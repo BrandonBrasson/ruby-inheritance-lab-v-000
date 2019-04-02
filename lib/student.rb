@@ -1,6 +1,6 @@
 class Student < User
 
-def first_name(steve)
+def first_name.self
   student.first_name
 end
 
