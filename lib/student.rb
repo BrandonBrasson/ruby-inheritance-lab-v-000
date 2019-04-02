@@ -5,7 +5,7 @@ def first_name(steve)
 end
 
 def last_name(jobs)
-@jobs
+puts "jobs"
 end
 
   def initialize
