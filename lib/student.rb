@@ -1,10 +1,10 @@
 class Student
 
-def first_name
+def first_name(steve)
   @Steve
 end
 
-def last_name
+def last_name(jobs)
 @jobs
 end
 
