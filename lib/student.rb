@@ -1,7 +1,7 @@
 class Student < User
 
 def first_name
-  'steve'
+  'first name'
 end
 
 def last_name(jobs)
