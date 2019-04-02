@@ -1,4 +1,12 @@
-class Student 
+class Student
+
+def first_name
+  "Steve"
+end
+
+def last_name
+"Jobs"
+end
 
   def initialize
     @knowledge = []
