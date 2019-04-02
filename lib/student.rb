@@ -1,11 +1,11 @@
 class Student < User
 
 def first_name(steve)
-  @Steve
+  student.first_name
 end
 
 def last_name(jobs)
-puts "jobs"
+
 end
 
   def initialize
